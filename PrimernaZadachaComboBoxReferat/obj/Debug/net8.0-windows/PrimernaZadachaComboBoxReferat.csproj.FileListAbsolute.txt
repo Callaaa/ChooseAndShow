@@ -1,0 +1,32 @@
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.exe
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.deps.json
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.runtimeconfig.json
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.dll
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.pdb
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.Form1.resources
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.csproj.GenerateResource.cache
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.AssemblyInfoInputs.cache
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.AssemblyInfo.cs
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.csproj.CoreCompileInputs.cache
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.dll
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\refint\PrimernaZadachaComboBoxReferat.dll
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.pdb
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.genruntimeconfig.cache
+C:\Users\Preslava Kanarova\source\repos\PrimernaZadachaComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\ref\PrimernaZadachaComboBoxReferat.dll
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.exe
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.deps.json
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.runtimeconfig.json
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.dll
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\bin\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.pdb
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.Form1.resources
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.csproj.GenerateResource.cache
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.GeneratedMSBuildEditorConfig.editorconfig
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.AssemblyInfoInputs.cache
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.AssemblyInfo.cs
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.csproj.CoreCompileInputs.cache
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.dll
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\refint\PrimernaZadachaComboBoxReferat.dll
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.pdb
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\PrimernaZadachaComboBoxReferat.genruntimeconfig.cache
+P:\ComboBoxReferat\PrimernaZadachaComboBoxReferat\obj\Debug\net8.0-windows\ref\PrimernaZadachaComboBoxReferat.dll
